@@ -251,7 +251,7 @@ local({
 
 
     #3.自定义函数
-        source("/miniconda3/lib/R/library/base/biofmzhang_func.R")
+        source("/miniconda3/lib/R/library/base/R/biofmzhang_func.R")
 
     #4.CR7是历史最佳
         cat("\n\n  Dreamboat, always have, always will. \n\n")
